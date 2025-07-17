@@ -20,5 +20,5 @@ A clean, responsive to-do list app built with HTML, CSS, and JavaScript. This ap
 ## 🧠 How to Use
 
 1. Clone or download this repository
-2. Open `index.html` in your browser
+2. Open `todo-list.html` in your browser
 3. Start adding tasks!
